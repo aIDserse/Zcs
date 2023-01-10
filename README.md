@@ -11,3 +11,4 @@ The design of this program is not how you would want to create an effectively dr
 ## Next things
 * Little Tetris program with AI (still developing, it will take a few time since I'll have to implement various algorithms)
 * A Little Benchmark program implementing various search methods for a wordlist
+* A Management program with SQL querys, that acts like a reservations handler for an hotel.
