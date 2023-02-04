@@ -7,6 +7,8 @@ The filters are applied both with buttons and sliders.
 A litte paint-like program that I made in the first year of high school.<br>
 It uses child-classes and I tried to create it respecting formal correctness of things (like public-private ecc, things normal pepole care relatively about).<br>
 The design of this program is not how you would want to create an effectively drawing program, but more something you can take inspiration for the libs used.
+#Ztick - Z Tic Tac Toe Program
+A little tic tac toe program
 ## Next things
 * Little Tetris program with Minimax
 * A Little Benchmark program implementing various search methods for a wordlist
