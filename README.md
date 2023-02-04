@@ -8,6 +8,6 @@ A litte paint-like program that I made in the first year of high school.<br>
 It uses child-classes and I tried to create it respecting formal correctness of things (like public-private ecc, things normal pepole care relatively about).<br>
 The design of this program is not how you would want to create an effectively drawing program, but more something you can take inspiration for the libs used.
 ## Next things
-* Little Tetris program with AI (still developing, it will take a few time since I'll have to implement various algorithms)
+* Little Tetris program with Minimax
 * A Little Benchmark program implementing various search methods for a wordlist
 * A Management program with SQL querys, that acts that handles reservations for a hotel
