@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Reservation system</h1>
+</div>
+
+<p><center><img src="~/images//orso.jpg" width="25%" height="25%"/></center></p>
+
+@if (Context.Items["roleUser"].ToString() == "Guest")
+{
+    <p><center>To enjoy the experience on our site, please <a class="link" asp-area="" asp-controller="Auth" asp-action="Registration">register</a> or <a class="link" asp-area="" asp-controller="Auth" asp-action="Login">log In</a></center></p>
+}
+else
+{
+    <p><center>Welcome! See our <a class="link" asp-area="" asp-controller="Reservation" asp-action="EventList">reservation page</a> and enroll to what you prefer!</center></p>
+}

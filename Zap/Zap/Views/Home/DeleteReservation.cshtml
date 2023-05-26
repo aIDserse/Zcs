@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Delete the following reservation?";
+    var evento = ViewData["Evento"] as Happening;
+    var Utenteid = ViewData["Persona"];
+
+    @model Reservation;
+}
+<h1>@ViewData["Title"]</h1>
+
+@if(evento == null)
+{
+    <p>You must me logged in to delete a reservation!!</p>
+}
+else
+{
+    <div asp-validation-summary="ModelOnly" class="error-text"></div>
+    <form action="/Home/DeleteReservation" method="post">
+        <div class="form-group mb-3">
+            <label asp-for="UserID">UserID</label>
+            <label asp-for="UserID">@Utenteid</label>
+            <input type="hidden" asp-for="UserID" value="@Utenteid" class="form-control" />
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="EventID">Event ID</label>
+            <label asp-for="EventID">@evento.ID</label>
+            <input type="hidden" asp-for="EventID" value="@evento.ID" class="form-control" />
+            <span asp-validation-for="EventID" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label>@evento.Title</label>
+            <label>@evento.Description</label>
+            <label>@evento.Date</label>
+            <label>@evento.Organizer</label>
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Delete</button>
+        </div>
+    </form>
+    <div class="text-center">
+        <button onClick="window.location.href='https://localhost:7100/Reservation/EventList';">Cancel</button>
+    </div>
+}

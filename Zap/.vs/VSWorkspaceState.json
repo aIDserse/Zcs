@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Zap",
+    "\\Zap\\Controllers",
+    "\\Zap\\Models",
+    "\\Zap\\Views",
+    "\\Zap\\Views\\Home",
+    "\\Zap\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Zap\\Models\\UserHandling.cs",
+  "PreviewInSolutionExplorer": false
+}

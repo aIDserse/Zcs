@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "New Event";
+    var listMuseums = ViewData["listMuseums"] as IEnumerable<Museum>;
+    @model Happening;
+
+}
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="ModelOnly" class="error-text"></div>
+<form action="/Admin/AddEvent" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" value="@Model.Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" value="@Model.Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Date">Date</label>
+        <input asp-for="Date" value="@Model.Date" class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="MaxPlaces">MaxPlaces</label>
+        <input asp-for="MaxPlaces" min="1" value="@Model.MaxPlaces" class="form-control" />
+        <span asp-validation-for="MaxPlaces" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Organizer">Organizer</label>
+        <select asp-for="Organizer"
+                asp-items="@(new SelectList(listMuseums,"ID", "ID"));"
+                class="form-control"></select>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Create</button>
+    </div>
+
+</form>

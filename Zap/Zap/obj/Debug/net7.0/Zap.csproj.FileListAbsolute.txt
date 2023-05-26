@@ -1,0 +1,251 @@
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\appsettings.json
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\Zap.staticwebassets.runtime.json
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\Zap.exe
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\Zap.deps.json
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\Zap.runtimeconfig.json
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\Zap.dll
+C:\Users\giuli\source\repos\Zap\Zap\bin\Debug\net7.0\Zap.pdb
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfoInputs.cache
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfo.cs
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cache
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cs
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.Zap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.build.Zap.props
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zap.props
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zap.props
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\scopedcss\bundle\Zap.styles.css
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\scopedcss\projectbundle\Zap.bundle.scp.css
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.dll
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\refint\Zap.dll
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.pdb
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\Zap.genruntimeconfig.cache
+C:\Users\giuli\source\repos\Zap\Zap\obj\Debug\net7.0\ref\Zap.dll
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfoInputs.cache
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfo.cs
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cache
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cs
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.dll
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\refint\Zap.dll
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.pdb
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\appsettings.json
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.staticwebassets.runtime.json
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.exe
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.deps.json
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.runtimeconfig.json
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.pdb
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Dapper.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luca\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.Zap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.build.Zap.props
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zap.props
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zap.props
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\scopedcss\bundle\Zap.styles.css
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\scopedcss\projectbundle\Zap.bundle.scp.css
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CopyComplete
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.genruntimeconfig.cache
+C:\Users\Luca\Desktop\Zap\Zap\obj\Debug\net7.0\ref\Zap.dll
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.AssemblyInfoInputs.cache
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.AssemblyInfo.cs
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cache
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cs
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.dll
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\refint\Zap.dll
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.pdb
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\appsettings.json
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Zap.staticwebassets.runtime.json
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Zap.exe
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Zap.deps.json
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Zap.runtimeconfig.json
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Zap.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Zap.pdb
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Dapper.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luca\Desktop\Zap org\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets\msbuild.Zap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets\msbuild.build.Zap.props
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zap.props
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zap.props
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\scopedcss\bundle\Zap.styles.css
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\scopedcss\projectbundle\Zap.bundle.scp.css
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.csproj.CopyComplete
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\Zap.genruntimeconfig.cache
+C:\Users\Luca\Desktop\Zap org\Zap\obj\Debug\net7.0\ref\Zap.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\appsettings.json
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.staticwebassets.runtime.json
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.exe
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.deps.json
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.runtimeconfig.json
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Zap.pdb
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Dapper.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giuli\Desktop\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.csproj.AssemblyReference.cache
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfoInputs.cache
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfo.cs
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CoreCompileInputs.cache
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cache
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cs
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.Zap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.build.Zap.props
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zap.props
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zap.props
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\scopedcss\bundle\Zap.styles.css
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\scopedcss\projectbundle\Zap.bundle.scp.css
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CopyComplete
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.dll
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\refint\Zap.dll
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.pdb
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\Zap.genruntimeconfig.cache
+C:\Users\giuli\Desktop\Zap\Zap\obj\Debug\net7.0\ref\Zap.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\appsettings.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Zap.staticwebassets.runtime.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Zap.exe
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Zap.deps.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Zap.runtimeconfig.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Zap.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Zap.pdb
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Dapper.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfoInputs.cache
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.AssemblyInfo.cs
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cache
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.RazorAssemblyInfo.cs
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.Zap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.build.Zap.props
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zap.props
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zap.props
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\scopedcss\bundle\Zap.styles.css
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\scopedcss\projectbundle\Zap.bundle.scp.css
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.csproj.CopyComplete
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\refint\Zap.dll
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.pdb
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\Zap.genruntimeconfig.cache
+C:\Users\Luca\Desktop\Nuova cartella\Zap\Zap\obj\Debug\net7.0\ref\Zap.dll

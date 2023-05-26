@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Register";
+    var listMuseums = ViewData["listMuseums"] as IEnumerable<Museum>;
+    @model HappeningHandler
+}
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="ModelOnly" class="error-text"></div>
+
+<form action="/Home/Register" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" value="@Model.Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" value="@Model.Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="MuseumID">Museum ID</label>
+        <input asp-for="MuseumID" value="@Model.MuseumID" class="form-control" />
+        <span asp-validation-for="MuseumID" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Password">Password</label>
+        <input type="password" asp-for="Password" value="@Model.Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>    
+    <div class="form-group mb-3">
+        <label asp-for="ConfermaPassword">Confirm Password</label>
+        <input type="password" asp-for="ConfermaPassword" value="@Model.ConfermaPassword" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>    
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Register!</button>
+    </div>
+</form>

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    @model User;
+
+}
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="ModelOnly" class="error-text"></div>
+<form action="/Auth/Login" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" value="@Model.Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Password">Password</label>
+        <input type="password" asp-for="Password" value="@Model.Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary btn-block">Log in</button>
+    </div>
+
+</form>
+
+<p><center>If you don't have an account, you can make one</center></p>
+<div class="text-center">
+    <a asp-controller="Auth" asp-action="Registration" class="btn btn-secondary btn-block">Register</a>
+</div>

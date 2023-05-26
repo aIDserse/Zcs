@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Are you sure you want to delete this account?";
+    var user = ViewData["Delete"] as User;
+    @model User
+}
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="ModelOnly" class="error-text"></div>
+
+<form action="/Home/DeleteRegistration" method="post">
+    <div class="form-group mb-3">
+        <input type="hidden" asp-for="Id" value="@user.Id" class="form-control" />
+        <input type="hidden" asp-for="Role" value="Basic" class="form-control" />
+
+        <label asp-for="Name">Name</label>
+        <label asp-for="Name">@user.Name</label>
+        <input type="hidden" asp-for="Name" value="@user.Name" class="form-control" />
+    </div>
+        <input type="hidden" asp-for="Password" value="@user.Password" class="form-control" />
+    <div class="form-group mb-3">
+        <label asp-for="Email">Email</label>
+        <label asp-for="Email">@user.Email</label>
+        <input type="hidden" asp-for="Email" value="@user.Email" class="form-control" />
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Delete</button>
+    </div>
+</form>
+<div class="text-center">
+    <button onClick="window.location.href='https://localhost:7100/Home';">Cancel</button>
+</div>
