@@ -24,7 +24,9 @@ It uses a 3x3 int array as board and two classes for game and board.
     </tr>
   </tbody>
 </table>
-
+A little reservation system, inspired by a simple museum-like interface.<br>
+You have to login (and, to insert events, you have to change your role in the database).
+There is a confirm program to insert emails, and it is a prefect example for asp.net views, filters, controllers ecc.
 ## Next things
 * A Little Benchmark program implementing various search methods for a wordlist
 * A Management program with SQL querys, that acts that handles reservations for a hotel
