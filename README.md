@@ -11,7 +11,7 @@ The design of this program is not how you would want to create an effectively dr
 A little tic tac toe program that uses the minimax algorithm.<br>
 It uses a 3x3 int array as board and two classes for game and board.
 ## Zap - Z Appointment Program
-# Contributors:
+### Contributors:
 <table>
   <tbody>
     <tr>            
